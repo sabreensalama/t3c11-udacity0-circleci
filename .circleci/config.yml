@@ -1,6 +1,6 @@
 version: 2.1
 env:
-   acess_key: x
+   access_key: x
 workflows:
   test-env-vars:
     jobs:
